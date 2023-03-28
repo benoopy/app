@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 **Privacy Policy**
 
 PT PMA MAD built the BeNoopy app as a Commercial app. This SERVICE is provided by PT PMA MAD and is intended for use as is.
