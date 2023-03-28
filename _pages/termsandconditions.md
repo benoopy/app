@@ -37,4 +37,4 @@ These terms and conditions are effective as of 2023-03-28
 
 **Contact Us**
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at hello@BeNoopy.com.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at hello@benoopy.com.
