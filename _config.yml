@@ -78,7 +78,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#9388C7"
+topbar_color                              : "#14105A"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
@@ -92,9 +92,9 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#14105A"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#14105A"
+app_price_color                           : "#14105A"
+app_description_color                     : "#14105A"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
