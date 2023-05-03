@@ -43,9 +43,9 @@ features                                  :
     description                           : We are working hard to launch as soon as possible.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : # Video Support
-    description                           : # Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : # play-circle
+  - title                                 : Upload 10-20 pictures of your furry face 
+    description                           : Get 48 pawsome AI-generated pictures of your furry face in 6 different styles! 
+    fontawesome_icon_name                 : magic
 
   - title                                 : # Automatic Icon and Metadata
     description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
