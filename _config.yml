@@ -27,7 +27,7 @@ email_address                             : hello@benoopy.com
 facebook_username                         :                                           
 instagram_username                        : benoopyai
 twitter_username                          : 
-github_username                           : 
+tiktok_username                           : 
 youtube_username                          :
 
 
@@ -43,8 +43,8 @@ features                                  :
     description                           : We are working hard to launch as soon as possible.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Upload 10-20 pictures of your furry face 
-    description                           : Get 48 pawsome AI-generated pictures of your furry face in 6 different styles! 
+  - title                                 : Upload 10-20 pictures of your pet friend face 
+    description                           : Get 48 pawsome AI-generated pictures of their furry face in 6 different styles! 
     fontawesome_icon_name                 : magic
 
   - title                                 : # Automatic Icon and Metadata
