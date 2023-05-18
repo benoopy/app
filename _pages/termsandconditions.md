@@ -41,7 +41,3 @@ These terms and conditions are effective as of 2023-05-18
 
 **Contact Information:**
 If you have any questions or concerns about these terms of use, please contact us at hello@benoopy.com.
-
-**Contact Us**
-
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at hello@benoopy.com.
