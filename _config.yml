@@ -141,4 +141,4 @@ collections:
 # Markdown rendering
 markdown: kramdown
 include: [".well-known"]
-include: ["/assets/js/cookie-consent.js]
+
