@@ -39,16 +39,12 @@ function getCookie(name) {
     fbq('init', '613901937331653');
     fbq('track', 'PageView');
   }
-
-window.onload = function () {
-    var visitorCountry = getVisitorCountry();
+  
+  window.onload = function() {
     const cookieConsent = getCookie('cookieConsent');
-    if (visitorCountry === "EU" && cookieConsent !== "accepted") {
-        document.getElementById("cookieConsent").style.display = "block";
-    }
-    else if (visitorCountry !== "EU" && cookieConsent !== "accepted") {
-        loadFacebookPixel();
+    if (!cookieConsent) {
+      document.getElementById('cookieConsent').style.display = 'block';
     } else if (cookieConsent === 'accepted') {
-        loadFacebookPixel();
+      loadFacebookPixel();
     }
-};
+  };
