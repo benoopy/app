@@ -685,3 +685,31 @@ footer {
 .hidden {
 	display: none;
 }
+
+.cookie-consent {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	padding: 10px;
+	background-color: #f8f8f8;
+	text-align: center;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	z-index: 9999;
+  }
+  
+  .cookie-consent span {
+	display: inline-block;
+	vertical-align: middle;
+  }
+  
+  .cookie-consent .btn {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 10px;
+	padding: 6px 12px;
+	color: #ffffff;
+	background-color: #007bff;
+	border-color: #007bff;
+	text-decoration: none;
+  }
